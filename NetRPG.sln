@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRPG", "NetRPG.csproj", "{C51897E5-C18C-495C-8EAD-1FB67B146CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51897E5-C18C-495C-8EAD-1FB67B146CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51897E5-C18C-495C-8EAD-1FB67B146CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51897E5-C18C-495C-8EAD-1FB67B146CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51897E5-C18C-495C-8EAD-1FB67B146CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
